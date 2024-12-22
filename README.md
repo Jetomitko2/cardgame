@@ -1,2 +1,2 @@
 # cardgame
-This is the html code for an application like Timcard, you can change everything here
+This is my app and it is a crime to use the name of this app "Timcard" and have more than 10 of the same cards.
